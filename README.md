@@ -1,9 +1,9 @@
 # User-Profile
 
-淘宝用户数据RFM分析
+RFM
 
-用户画像
+E-commerce datasets
 
-数据集太大，见网盘
 链接：https://pan.baidu.com/s/1MKOI1F49lemW8JugOeDkkw 
+
 提取码：fhtd 
